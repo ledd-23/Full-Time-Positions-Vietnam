@@ -4,7 +4,7 @@ A collection of full time roles in SWE, Data, IT, etc. in Vietnam.
 ## The List
 | Name                                   | Location | Notes                                   |
 | -------------------------------------- | -------- | --------------------------------------- |
-| [Telio](https://telio.talent.vn/job/) | Hanoi      | [Software Engineer](https://telio.talent.vn/job/hn-software-engineer-928), [Senior Manual QA Engineer](https://telio.talent.vn/job/ha-noi-senior-manual-qa-engineer-420) |
+| [Telio](https://telio.talent.vn/home/) | Hanoi      | [Software Engineer](https://telio.talent.vn/job/hn-software-engineer-928), [Senior Manual QA Engineer](https://telio.talent.vn/job/ha-noi-senior-manual-qa-engineer-420) |
 | [MoMo](https://momo.careers/jobs-opening/?keyword=&job_type=Fulltime&group_skill=Engineering) | Hanoi, Ho Chi Minh      | Various developer positions (Java, DevOps) |
 | [Zalo](https://zalo.careers/job-list?teams=engineering) | Ho Chi Minh      | Various developer positions (Java, ReactJS, iOS, Android) |
 | [Anfin](https://www.anfin.vn/careers) | Ho Chi Minh      | Various tech roles (Backend, Product Owner) |
