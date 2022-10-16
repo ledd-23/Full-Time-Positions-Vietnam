@@ -14,6 +14,11 @@ A collection of full time roles in SWE, Data, IT, etc. in Vietnam.
 | [BAEMIN Vietnam](http://jobs.baemin.vn/) | Ho Chi Minh      | Various tech roles |
 | [Finhay](https://www.finhay.com.vn/tuyen-dung) | Hanoi      | Various developer positions |
 | [Infina](https://careers.infina.vn/job-categories/engineering) | Ho Chi Minh      | Some QA positions |
+| [Viettel](https://tuyendung.viettel.vn/VRS_FE/recruitment-information/search?keywords=&career=&location=) | Mainly Hanoi      | Various tech roles |
+| [ELSA](https://vn.elsaspeak.com/tuyen-dung/) | Ho Chi Minh      | Some engineering positions |
+| [POPS](https://popsww.com/en/careers/) | Ho Chi Minh      | None currently but keep an eye out |
+| [Haravan](https://careers.haravan.com/jobs) | Ho Chi Minh      | Various engineering positions |
+
 
 
 
