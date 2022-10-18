@@ -18,6 +18,12 @@ A collection of full time roles in SWE, Data, IT, etc. in Vietnam.
 | [ELSA](https://vn.elsaspeak.com/tuyen-dung/) | Ho Chi Minh      | Some engineering positions |
 | [POPS](https://popsww.com/en/careers/) | Ho Chi Minh      | None currently but keep an eye out |
 | [Haravan](https://careers.haravan.com/jobs) | Ho Chi Minh      | Various engineering positions |
+| [VNG](https://career.vng.com.vn/vi/tim-kiem-viec-lam) | Ho Chi Minh      | Various tech roles |
+| [TIKI](https://tuyendung.tiki.vn/alljobs?location=&type=&dept=863,864,865,866,867,868,869,870&return=1) | Ho Chi Minh      | Go and ReactJS |
+| [FPT Software](https://career.fpt-software.com/vi/jobs-search/) | Hanoi, Ho Chi Minh, and others     | Various tech roles |
+
+
+
 
 
 
